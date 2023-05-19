@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivo Costa</h1>
-<h3 align="center">A backend developer from Portugal</h3>
+<h3 align="center">A FullStack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** and **Swift**
 
 - 📫 How to reach me **ivo.palhares.costa@gmail.com**
 
