@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivo Costa</h1>
-<h3 align="center">A FullStack developer from Portugal</h3>
+<h3 align="center">A Mobile App Developer from Portugal</h3>
 
 - 🏢 I’m currently working with **iOS Applications using Swift** (3 years of experience currently)
 
